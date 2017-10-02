@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Länkar
 permalink: /links/
 ---
+
+<div>
+	<img src="https://i.imgur.com/jRo3TsI.png" alt="schema" align="middle" style="width:512px;"/>
+</div>
+
 # Viktiga personer
 
 | Föreläsare | [Dan Kiselman](http://www.su.se/profiles/dan-1.181955) | dan@astro.su.se  |
@@ -17,3 +21,4 @@ permalink: /links/
 * [Föreläsning 3](https://www.dropbox.com/s/1ja2joxc65wtl7n/F%C3%B6rel%C3%A4sning%203.pdf?dl=0)
 * [Föreläsning 4](https://www.dropbox.com/s/uhuf4rmtxx2rf7u/F%C3%B6rel%C3%A4sning%204.pdf?dl=0)
 * [Föreläsning 5](https://www.dropbox.com/s/9vm5w289b166v96/F%C3%B6rel%C3%A4sning%205.pdf?dl=0)
+* [Föreläsning 6](https://www.dropbox.com/s/59zeect79h6sx0w/F%C3%B6rel%C3%A4sning%206.pdf?dl=0)
