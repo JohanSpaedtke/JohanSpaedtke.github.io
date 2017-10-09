@@ -22,3 +22,4 @@ permalink: /links/
 * [Föreläsning 4](https://www.dropbox.com/s/uhuf4rmtxx2rf7u/F%C3%B6rel%C3%A4sning%204.pdf?dl=0)
 * [Föreläsning 5](https://www.dropbox.com/s/9vm5w289b166v96/F%C3%B6rel%C3%A4sning%205.pdf?dl=0)
 * [Föreläsning 6](https://www.dropbox.com/s/59zeect79h6sx0w/F%C3%B6rel%C3%A4sning%206.pdf?dl=0)
+* [Föreläsning 7](https://www.dropbox.com/s/p5dka3vfvlvt1r1/F%C3%B6rel%C3%A4sning%207.pdf?dl=0)
